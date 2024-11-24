@@ -1,0 +1,14 @@
+{
+    "python.testing.pytestArgs": [
+        "code car plate"
+    ],
+    "python.testing.unittestEnabled": true,
+    "python.testing.pytestEnabled": false,
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        "./code car plate",
+        "-p",
+        "*test.py"
+    ]
+}
